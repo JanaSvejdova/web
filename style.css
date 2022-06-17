@@ -1,0 +1,42 @@
+body{
+  background-color: #252633
+    
+}
+a {
+  color: #c30101;
+}
+a:hover {
+  color: #e36f7d
+}
+p {
+  color: beige;
+  
+}
+
+
+h1 {
+  color: beige;
+  text-shadow: 2px 2px #940000
+}
+
+
+.bd-placeholder-img {
+  font-size: 1.125rem;
+  text-anchor: middle;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+@media (min-width: 768px) {
+  .bd-placeholder-img-lg {
+    font-size: 3.5rem;
+  }
+}
+nav {
+  margin: 20px;
+}
+nav a {
+  padding: 20px;
+}
